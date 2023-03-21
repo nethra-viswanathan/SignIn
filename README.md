@@ -1,7 +1,7 @@
 # Sign In Application
 A simple sign in screen built using MERN stack. 
 
-Fucntions:
+**Fucntions:**
 * A sign in screen that takes in Mobile Number / Email ID
 * An OTP is sent to the Mobile Number / Email ID
 * Once the OTP is entered the user will be able to see a list of all users that have logged into the application on the past
