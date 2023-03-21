@@ -10,11 +10,16 @@ A simple sign in screen built using MERN stack.
 
 **Screenshots:**
 
+
 Sign In Screen:
+
 <img width="1440" alt="Screen Shot 2023-03-20 at 8 04 58 PM" src="https://user-images.githubusercontent.com/35915727/226492005-10f508b7-cf29-40e0-974b-c5b096ac733d.png">
 
+
 When Invalid Credentials is entered:
+
 <img width="1440" alt="Screen Shot 2023-03-20 at 8 05 00 PM" src="https://user-images.githubusercontent.com/35915727/226492368-a86ee27a-97d3-49b7-a12c-d3c93dc9268e.png">
+
 
 Screen to enter OTP:
 
